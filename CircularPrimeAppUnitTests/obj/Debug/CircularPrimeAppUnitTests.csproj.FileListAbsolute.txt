@@ -1,0 +1,7 @@
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\CircularPrimeApp\CircularPrimeAppUnitTests\bin\Debug\CircularPrimeAppUnitTests.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\CircularPrimeApp\CircularPrimeAppUnitTests\bin\Debug\CircularPrimeAppUnitTests.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\CircularPrimeApp\CircularPrimeAppUnitTests\bin\Debug\CircularPrimeApp.exe
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\CircularPrimeApp\CircularPrimeAppUnitTests\bin\Debug\CircularPrimeApp.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\CircularPrimeApp\CircularPrimeAppUnitTests\obj\Debug\CircularPrimeAppUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\CircularPrimeApp\CircularPrimeAppUnitTests\obj\Debug\CircularPrimeAppUnitTests.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\CircularPrimeApp\CircularPrimeAppUnitTests\obj\Debug\CircularPrimeAppUnitTests.pdb
